@@ -44,7 +44,7 @@ Any node can be queried to provide its current metadata. This can be displayed i
 
 ### Using Cargo
 
-    cargo install --locked --git https://github.com/chevdor/subwasm --tag v0.16.1
+    cargo install --locked --git https://github.com/chevdor/subwasm --tag v0.17.0
 
 ### Homebrew
 
@@ -55,7 +55,7 @@ MacOS Homebrew users can use:
 
 ### Linux
 
-    wget https://github.com/chevdor/subwasm/releases/download/v0.16.1/subwasm_linux_amd64_v0.16.1 -O subwasm.deb
+    wget https://github.com/chevdor/subwasm/releases/download/v0.17.0/subwasm_linux_amd64_v0.17.0.deb -O subwasm.deb
     sudo dpkg -i subwasm.deb
     subwasm --help
 
